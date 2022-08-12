@@ -1,4 +1,4 @@
 fastapi==0.79.0
 numpy==1.23.1
 web3==5.30.0
-gunicorn=20.1.0
+gunicorn==20.1.0
